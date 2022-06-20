@@ -5,6 +5,9 @@
 #+latex_header: \setlength{\parindent}{0em}
 
 
+Jesus Rodolfo Izurieta Veliz
+CI: 9860616
+
 Enlace del repositorio:
 
 https://github.com/izurietajr/recuperatorio
