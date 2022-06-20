@@ -1,0 +1,10 @@
+#+title: Examen recuperatorio INF 354
+#+setupfile: ~/org/templates/tarea.org
+#+latex_header: \newcommand{\hleft}{Examen recuperatorio INF 354}
+#+latex_header: \newcommand{\hright}{Jesus Rodolfo Izurieta Veliz}
+#+latex_header: \setlength{\parindent}{0em}
+
+
+Enlace del repositorio:
+
+https://github.com/izurietajr/recuperatorio
